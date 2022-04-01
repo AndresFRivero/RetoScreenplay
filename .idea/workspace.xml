@@ -2,7 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1e0ca4-18c8-401d-bae9-06755d1bc631" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/questions/Answer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/stepdefinitions/RetoChoucairStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/stepdefinitions/RetoChoucairStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/task/InPlatform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/task/OpenUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/userinterface/UTestPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/reto/test/userinterface/UTestPageRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Reto#20Choucair.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Reto#20Choucair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.reto.test.runners.RunnerTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.reto.test.runners.RunnerTags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.reto.test.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.reto.test.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/retoChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/retoChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Reto#20Choucair.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Reto#20Choucair.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.reto.test.runners.RunnerTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.reto.test.runners.RunnerTags.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/model/model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/questions/question" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/userinterface/userinterface" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/exceptions/exception" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/interactions/interaction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/model/model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/questions/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/questions/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/stepdefinitions/RetoChoucairStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/stepdefinitions/RetoChoucairStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/task/InPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/task/InPlatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/task/OpenUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/task/OpenUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/userinterface/UTestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/userinterface/UTestPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/userinterface/UTestPageRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/userinterface/UTestPageRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/util/util" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/retoChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/retoChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a680e98aad4c2a078c8be3450a27d8155964a3cc053a37c38f82b115b4264bb7_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,22 +145,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/test/java/co/com/choucair/reto/test/questions/Answer.java</url>
-          <line>8</line>
-          <properties field="question" class="co.com.choucair.reto.test.questions.Answer" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
