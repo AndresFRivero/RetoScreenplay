@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Reto Choucair" skipped="0" tests="1" time="58.4" timestamp="2022-03-31 09:37:47"><testcase name="Make a new register"><error message="null" type="java.lang.AssertionError">null</error><system-err>null&#13;
+co.com.choucair.reto.test.stepdefinitions.RetoChoucairStepDefinitions.heFillsAndSaveAllDataProvided(RetoChoucairStepDefinitions.java:34)&#13;
+✽.he fills and save all data provided(src/test/resources/features/retoChoucair.feature:8)&#13;
+</system-err></testcase></testsuite>
