@@ -19,15 +19,12 @@ public class Answer implements Question<Boolean> {
     @Override
     public Boolean answeredBy(Actor actor) {
         boolean result = false;
-        try {
-            wait(5000);
-            String messageWelcome = Text.of(UTestPageRegister.WELCOME).viewedBy(actor).asString();
-            if (question.equals(messageWelcome)) {
-                result = true;
-            }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+
+        String messageWelcome = Text.of(UTestPageRegister.WELCOME).viewedBy(actor).asString();
+        if (question.equals(messageWelcome)) {
+            result = true;
         }
+
         return result;
     }
 

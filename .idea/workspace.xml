@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1e0ca4-18c8-401d-bae9-06755d1bc631" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,12 +31,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/co/com/chocair/reto/exceptions" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrés F Rivero\IdeaProjects\co.com.choucair.retotecnico\src\main\java\co\com\chocair\reto\exceptions" />
+      <recent name="C:\Users\Andrés F Rivero\IdeaProjects\co.com.choucair.retotecnico\src\main\java\co\com\chocair\reto\interactions" />
+      <recent name="C:\Users\Andrés F Rivero\IdeaProjects\co.com.choucair.retotecnico\src\main\java\co\com\chocair\reto\model" />
+      <recent name="C:\Users\Andrés F Rivero\IdeaProjects\co.com.choucair.retotecnico\src\main\java\co\com\chocair\reto\util" />
+      <recent name="C:\Users\Andrés F Rivero\IdeaProjects\co.com.choucair.retotecnico" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="co.com.choucair.reto.test.task" />
       <recent name="co.com.choucair.reto.test.userinterface" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Andrés F Rivero\IdeaProjects\co.com.choucair.retotecnico" />
     </key>
   </component>
   <component name="RunDashboard">
